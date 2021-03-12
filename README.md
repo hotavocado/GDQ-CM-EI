@@ -1,2 +1,7 @@
-# GDQ-CM-EI
- ML applet for custom daily Qs 
+# Daily questionnaire
+
+[Mindlogger](https://mindlogger.org/) applet for Dialectical Behavorial Therapy daily diary card.
+
+For use in first clinical pilot.
+
+

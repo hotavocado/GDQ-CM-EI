@@ -1,0 +1,38 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "daily_questionnaire": "https://raw.githubusercontent.com/hotavocado/GDQ-CM-EI/master/activities/daily_questionnaire/items/",
+        "sister_annoy": {
+            "@id": "daily_questionnaire:sister_annoy",
+            "@type": "@id"
+        },
+        "sister_annoy_problem": {
+            "@id": "daily_questionnaire:sister_annoy_problem",
+            "@type": "@id"
+        },
+        "sister_annoy_skillful": {
+            "@id": "daily_questionnaire:sister_annoy_skillful",
+            "@type": "@id"
+        },
+        "get_his_way": {
+            "@id": "daily_questionnaire:get_his_way",
+            "@type": "@id"
+        },
+        "get_his_way_problem": {
+            "@id": "daily_questionnaire:get_his_way_problem",
+            "@type": "@id"
+        },
+        "get_his_way_skillful": {
+            "@id": "daily_questionnaire:get_his_way_skillful",
+            "@type": "@id"
+        },
+        "notes": {
+            "@id": "daily_questionnaire:notes",
+            "@type": "@id"
+        },
+        "thank_you": {
+            "@id": "daily_questionnaire:thank_you",
+            "@type": "@id"
+        }
+    }
+}

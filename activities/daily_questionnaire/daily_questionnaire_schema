@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/hotavocado/GDQ-CM-EI/master/activities/daily_questionnaire/daily_questionnaire_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "daily_questionnaire_schema",
+    "skos:prefLabel": "Daily Questionnaire",
+    "schema:description": "Answer some questions about Emilio's behavior",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "scoringLogic": {},
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "sister_annoy",
+                "isAbout": "sister_annoy",
+                "isVis": true
+            },
+            {
+                "variableName": "sister_annoy_problem",
+                "isAbout": "sister_annoy_problem",
+                "isVis": true
+            },
+            {
+                "variableName": "sister_annoy_skillful",
+                "isAbout": "sister_annoy_skillful",
+                "isVis": true
+            },
+            {
+                "variableName": "get_his_way",
+                "isAbout": "get_his_way",
+                "isVis": true
+            },
+            {
+                "variableName": "get_his_way_problem",
+                "isAbout": "get_his_way_problem",
+                "isVis": true
+            },
+            {
+                "variableName": "get_his_way_skillful",
+                "isAbout": "get_his_way_skillful",
+                "isVis": true
+            },
+            {
+                "variableName": "notes",
+                "isAbout": "notes",
+                "isVis": true
+            },
+            {
+                "variableName": "thank_you",
+                "isAbout": "thank_you",
+                "isVis": true
+            }
+        ],
+        "order": [
+            "sister_annoy",
+            "sister_annoy_problem",
+            "sister_annoy_skillful",
+            "get_his_way",
+            "get_his_way_problem",
+            "get_his_way_skillful",
+            "notes",
+            "thank_you"
+        ],
+        "shuffle": false
+    }
+}
