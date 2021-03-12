@@ -6,7 +6,7 @@
     "@type": "reproschema:Activity",
     "@id": "daily_questionnaire_schema",
     "skos:prefLabel": "Daily Questionnaire",
-    "schema:description": "Answer some questions about Emilio's behavior",
+    "schema:description": "Answer a daily questionnaire about your child's behavior",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "scoringLogic": {},

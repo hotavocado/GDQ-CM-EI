@@ -41,7 +41,7 @@
                 "@type": "schema:option"
             }
         ],
-        "schema:minValue": "None",
-        "schema:maxValue": "5 or more times"
+        "schema:minValue": "times",
+        "schema:maxValue": "times or more"
     }
 }
