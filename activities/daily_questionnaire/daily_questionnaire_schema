@@ -20,12 +20,12 @@
             {
                 "variableName": "sister_annoy_problem",
                 "isAbout": "sister_annoy_problem",
-                "isVis": true
+                "isVis": "sister_annoy > 0"
             },
             {
                 "variableName": "sister_annoy_skillful",
                 "isAbout": "sister_annoy_skillful",
-                "isVis": true
+                "isVis": "sister_annoy > 0"
             },
             {
                 "variableName": "get_his_way",
@@ -35,12 +35,12 @@
             {
                 "variableName": "get_his_way_problem",
                 "isAbout": "get_his_way_problem",
-                "isVis": true
+                "isVis": "get_his_way > 0"
             },
             {
                 "variableName": "get_his_way_skillful",
                 "isAbout": "get_his_way_skillful",
-                "isVis": true
+                "isVis": "get_his_way > 0"
             },
             {
                 "variableName": "notes",
