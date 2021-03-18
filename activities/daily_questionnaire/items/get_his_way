@@ -5,43 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "get_his_way",
     "ui": {
-        "inputType": "slider"
+        "inputType": "text"
     },
-    "question": "How many times did Emilio not get his way today?",
-    "responseOptions": {
-        "choices": [
-            {
-                "schema:value": 0,
-                "schema:name": "0",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 1,
-                "schema:name": "1",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 2,
-                "schema:name": "2",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 3,
-                "schema:name": "3",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 4,
-                "schema:name": "4",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 5,
-                "schema:name": "5",
-                "@type": "schema:option"
-            }
-        ],
-        "schema:minValue": "times",
-        "schema:maxValue": "times or more"
-    }
+    "question": "How many times did Emilio not get his way today?"
 }

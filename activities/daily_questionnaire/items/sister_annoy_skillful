@@ -5,43 +5,7 @@
     "@type": "reproschema:Field",
     "@id": "sister_annoy_skillful",
     "ui": {
-        "inputType": "slider"
+        "inputType": "text"
     },
-    "question": "When Emilio's sister annoyed him, how many of those times did he engage in skillful behavior?",
-    "responseOptions": {
-        "choices": [
-            {
-                "schema:value": 0,
-                "schema:name": "0",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 1,
-                "schema:name": "1",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 2,
-                "schema:name": "2",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 3,
-                "schema:name": "3",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 4,
-                "schema:name": "4",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 5,
-                "schema:name": "5",
-                "@type": "schema:option"
-            }
-        ],
-        "schema:minValue": "times",
-        "schema:maxValue": "times or more"
-    }
+    "question": "When Emilio's sister annoyed him, how many of those times did he engage in skillful behavior?"
 }
