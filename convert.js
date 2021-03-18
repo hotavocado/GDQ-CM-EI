@@ -17,7 +17,7 @@ let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${b
 let protocolDescription = "Answer a daily questionnaire about your child's behavior"
 
 //4. where are you hosting your images?
-let imagePath = `https://raw.githubusercontent.com/ChildMindInstitute/Clinical-Applet-Images/main/images/png/`
+let imagePath = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}/images/`
 
 /* hard coded activity display object
 let activityDisplayObj = {
